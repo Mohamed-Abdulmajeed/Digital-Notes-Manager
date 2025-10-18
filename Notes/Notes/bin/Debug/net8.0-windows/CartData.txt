@@ -1,0 +1,5 @@
+3 | C# Corner | I will go to ITI to show and discus the project with my team | C# | 11/1/2025 1:30:00 PM | 24.03:17:40.7586450 | Orange | False
+6 | Course MVC | i will study | Homework | 10/20/2025 1:00:00 PM | 12.02:47:40.7038427 | LightGreen | True
+7 | C++ | i will create and deploy my project | OOP | 10/10/2025 12:00:00 PM | 2.01:47:40.6453176 | Coral | False
+1002 | Python | i will save | Jango | 10/9/2025 12:00:00 AM | 13:47:40.5679144 | Pink | False
+1004 | Al | i will draw | ML | 10/10/2025 12:00:00 PM | 2.01:47:40.5126866 | LightGreen | True

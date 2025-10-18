@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\notes\\screens\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\notes\\screens\\frmupdatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmupdatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|d:\\courses\\1iti\\9linq\u0026entity\\pro\\notes\\notes\\screens\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\notes\\screens\\frmaddnewnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmaddnewnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\notes\\dialog\\confirmdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\dialog\\confirmdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|d:\\courses\\1iti\\9linq\u0026entity\\pro\\notes\\notes\\screens\\frmupdatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmupdatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\notes\\dialog\\msgdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\dialog\\msgdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 318,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUpdateNote.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmUpdateNote.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmUpdateNote.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmUpdateNote.cs [Design]",
+              "RelativeToolTip": "Notes\\Screens\\FrmUpdateNote.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:13:08.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmLogin.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Notes\\Screens\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:55:34.954Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMainPage.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmMainPage.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmMainPage.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmMainPage.cs [Design]",
+              "RelativeToolTip": "Notes\\Screens\\FrmMainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:36:29.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAddNewNote.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmAddNewNote.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmAddNewNote.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmAddNewNote.cs [Design]",
+              "RelativeToolTip": "Notes\\Screens\\FrmAddNewNote.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:14:03.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfirmDialog.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\dialog\\ConfirmDialog.cs",
+              "RelativeDocumentMoniker": "Notes\\dialog\\ConfirmDialog.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\dialog\\ConfirmDialog.cs [Design]",
+              "RelativeToolTip": "Notes\\dialog\\ConfirmDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:11:44.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MsgDialog.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\dialog\\MsgDialog.cs",
+              "RelativeDocumentMoniker": "Notes\\dialog\\MsgDialog.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\dialog\\MsgDialog.cs [Design]",
+              "RelativeToolTip": "Notes\\dialog\\MsgDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:55:55.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmUpdateNote.cs",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmUpdateNote.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmUpdateNote.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmUpdateNote.cs",
+              "RelativeToolTip": "Notes\\Screens\\FrmUpdateNote.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:11:11.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
