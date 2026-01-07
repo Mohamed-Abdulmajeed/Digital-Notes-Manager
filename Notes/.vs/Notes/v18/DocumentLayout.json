@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|d:\\courses\\1iti\\17projects\\notes\\digital-notes-manager\\notes\\notes\\screens\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\notes\\screens\\frmupdatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmupdatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\notes\\screens\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\notes\\screens\\frmaddnewnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmaddnewnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\notes\\dialog\\confirmdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\dialog\\confirmdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|d:\\courses\\1iti\\17projects\\notes\\digital-notes-manager\\notes\\notes\\screens\\frmupdatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\screens\\frmupdatenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\notes\\dialog\\msgdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0740451-30F9-490E-A612-AF0F2364BF6F}|Notes\\Notes.csproj|solutionrelative:notes\\dialog\\msgdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmUpdateNote.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\Notes\\Screens\\FrmUpdateNote.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmUpdateNote.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmUpdateNote.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmUpdateNote.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-01-07T17:24:09.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\Notes\\Screens\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmLogin.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-01-07T17:24:09.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMainPage.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\Notes\\Screens\\FrmMainPage.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmMainPage.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\Notes\\Screens\\FrmMainPage.cs [Design]",
+              "RelativeToolTip": "Notes\\Screens\\FrmMainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:24:09.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAddNewNote.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\Notes\\Screens\\FrmAddNewNote.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmAddNewNote.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmAddNewNote.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\9Linq\u0026Entity\\pro\\Notes\\Notes\\Screens\\FrmAddNewNote.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-01-07T17:24:09.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfirmDialog.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\Notes\\dialog\\ConfirmDialog.cs",
+              "RelativeDocumentMoniker": "Notes\\dialog\\ConfirmDialog.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\dialog\\ConfirmDialog.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\9Linq\u0026Entity\\pro\\Notes\\Notes\\dialog\\ConfirmDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:24:09.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MsgDialog.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\Notes\\dialog\\MsgDialog.cs",
+              "RelativeDocumentMoniker": "Notes\\dialog\\MsgDialog.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\9Linq\u0026Entity\\pro\\Notes\\Notes\\dialog\\MsgDialog.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\9Linq\u0026Entity\\pro\\Notes\\Notes\\dialog\\MsgDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:24:09.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmUpdateNote.cs",
+              "DocumentMoniker": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\Notes\\Screens\\FrmUpdateNote.cs",
+              "RelativeDocumentMoniker": "Notes\\Screens\\FrmUpdateNote.cs",
+              "ToolTip": "D:\\Courses\\1ITI\\17Projects\\Notes\\Digital-Notes-Manager\\Notes\\Notes\\Screens\\FrmUpdateNote.cs",
+              "RelativeToolTip": "Notes\\Screens\\FrmUpdateNote.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:24:09.781Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 897,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-07T17:25:31.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
